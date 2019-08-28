@@ -1,0 +1,217 @@
+﻿#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://teleguide.info/download/new3/jtv.zip" tvg-shift=0 cache=500
+#EXTINF:-1 group-title="Эфирные",Первый канал #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.221.1:5000
+#EXTINF:-1 group-title="Эфирные",Первый HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.143.1:5000
+#EXTINF:-1 group-title="Эфирные",Россия 1 HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.143.23:5000
+#EXTINF:-1 group-title="Эфирные",ТВ 3 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.141:5000
+#EXTINF:-1 group-title="Эфирные",НТВ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.31:5000
+#EXTINF:-1 group-title="Эфирные",5 канал #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.41:5000
+#EXTINF:-1 group-title="Эфирные",ТВЦ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.20.92:5000 
+#EXTINF:-1 group-title="Эфирные",РЕН ТВ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.101:5000 
+#EXTINF:-1 group-title="Эфирные",СТС #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.20.121:5000 
+#EXTINF:-1 group-title="Эфирные",Домашний #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.131:5000 
+#EXTINF:-1 group-title="Эфирные",ОТР #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.81:5000 
+#EXTINF:-1 group-title="Эфирные",Звезда #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.161:5000 
+#EXTINF:-1 group-title="Эфирные",Россия К #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.221.51:5000 
+#EXTINF:-1 group-title="Развлекательные",Че #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.205:5000 
+#EXTINF:-1 group-title="Развлекательные",Пятница!#EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.151:5000 
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.23.226:5000 
+#EXTINF:-1 group-title="Развлекательные",CTC Love #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.20:5000 
+#EXTINF:-1 group-title="Развлекательные",Супер #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.23.202:5000 
+#EXTINF:-1 group-title="Развлекательные",Сарафан #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.107:5000 
+#EXTINF:-1 group-title="Развлекательные",Ю #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/233.99.61.28:5000 
+#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.178:5000 
+#EXTINF:-1 group-title="Развлекательные",Fashion TV #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.238:5000 
+#EXTINF:-1 group-title="Развлекательные",myZen TV HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.143.9:5000 
+#EXTINF:-1 group-title="Детские",Детский #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.92:5000 
+#EXTINF:-1 group-title="Детские",Детский Мир #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.97:5000 
+#EXTINF:-1 group-title="Детские",Карусель #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.71:5000 
+#EXTINF:-1 group-title="Детские",Мама #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.96:5000 
+#EXTINF:-1 group-title="Детские",Мульт #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.91:5000 
+#EXTINF:-1 group-title="Детские",МультиМузыка #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.76:5000 
+#EXTINF:-1 group-title="Детские",Радость Моя #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.93:5000 
+#EXTINF:-1 group-title="Детские",Тлум HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.53.70:5000 
+#EXTINF:-1 group-title="Детские",Disney #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/233.99.61.224:5000 
+#EXTINF:-1 group-title="Детские",2х2 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.221.201:5000 
+#EXTINF:-1 group-title="Детские",Nickelodeon #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.90:5000 
+#EXTINF:-1 group-title="Кино",TV1000 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.19:5000 
+#EXTINF:-1 group-title="Кино",TV1000 Русское Кино #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.24:5000 
+#EXTINF:-1 group-title="Кино",Hollywood #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.46:5000 
+#EXTINF:-1 group-title="Кино",TV XXI #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.21:5000 
+#EXTINF:-1 group-title="Кино",НСТ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.29:5000 
+#EXTINF:-1 group-title="Кино",Иллюзион + #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.22:5000 
+#EXTINF:-1 group-title="Кино",Русский Иллюзион #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.23:5000 
+#EXTINF:-1 group-title="Кино",Русский Роман #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.49:5000 
+#EXTINF:-1 group-title="Кино",Феникс Плюс Кино #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.32:5000 
+#EXTINF:-1 group-title="Познавательные",National Geographic #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.54:5000 
+#EXTINF:-1 group-title="Познавательные",Discovery Channel #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.59:5000 
+#EXTINF:-1 group-title="Познавательные",Viasat History #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.56:5000 
+#EXTINF:-1 group-title="Познавательные",Viasat Nature #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.80:5000 
+#EXTINF:-1 group-title="Познавательные",Viasat Explore #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.55:5000 
+#EXTINF:-1 group-title="Познавательные",Zooпарк #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.61:5000 
+#EXTINF:-1 group-title="Познавательные",Моя Планета #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.58:5000 
+#EXTINF:-1 group-title="Познавательные",Tехно 24 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.57:5000 
+#EXTINF:-1 group-title="Познавательные",Авто Плюс #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.149:5000 
+#EXTINF:-1 group-title="Познавательные",Усадьба #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.68:5000 
+#EXTINF:-1 group-title="Познавательные",Охота и Рыбалка #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.67:5000 
+#EXTINF:-1 group-title="Познавательные",Первый Образовательный #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.73:5000 
+#EXTINF:-1 group-title="Познавательные",Доктор #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.81:5000 
+#EXTINF:-1 group-title="Новости",Россия 24 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.65:5000 
+#EXTINF:-1 group-title="Новости",РБК #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.9:5000 
+#EXTINF:-1 group-title="Новости",RT HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.143.25:5000 
+#EXTINF:-1 group-title="Новости",RT #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.5:5000 
+#EXTINF:-1 group-title="Новости",RT Док HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.143.54:5000 
+#EXTINF:-1 group-title="Новости",Известия HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.143.59:5000 
+#EXTINF:-1 group-title="Новости",Мир 24 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.13:5000 
+#EXTINF:-1 group-title="Новости",Мир #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.171:5000 
+#EXTINF:-1 group-title="Новости",Euronews #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.6:5000 
+#EXTINF:-1 group-title="Новости",CNN International #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.169:5000 
+#EXTINF:-1 group-title="Новости",BBC World News #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.10:5000 
+#EXTINF:-1 group-title="Новости",Deutsche Welle #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.7:5000 
+#EXTINF:-1 group-title="Новости",France 24 HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.143.96:5000 
+#EXTINF:-1 group-title="Новости",NHK World Japan #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.11:5000 
+#EXTINF:-1 group-title="Спорт",Eurosport 1 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.130:5000 
+#EXTINF:-1 group-title="Спорт",Eurosport 2 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.131:5000 
+#EXTINF:-1 group-title="Спорт",Eurosport Gold #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.190:5000 
+#EXTINF:-1 group-title="Спорт",МАТЧ! Страна #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.141:5000 
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.40.38:5000 
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.40.39:5000 
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.40.40:5000 
+#EXTINF:-1 group-title="Спорт",Футбол #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.138:5000 
+#EXTINF:-1 group-title="Спорт",Extreme Sports #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.139:5000 
+#EXTINF:-1 group-title="Спорт",Русский Экстрим #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.136:5000 
+#EXTINF:-1 group-title="Музыка",BRIDGE TV #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.122:5000 
+#EXTINF:-1 group-title="Музыка",BRIDGE TV Русский Хит #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.129:5000 
+#EXTINF:-1 group-title="Музыка",VH1 European #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.120:5000 
+#EXTINF:-1 group-title="Музыка",MCM Top #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.121:5000 
+#EXTINF:-1 group-title="Музыка",Муз ТВ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.220:5000 
+#EXTINF:-1 group-title="Музыка",RU TV HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.143.83:5000 
+#EXTINF:-1 group-title="Музыка",MUSIC BOX RU #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.115:5000 
+#EXTINF:-1 group-title="Музыка",THT MUSIC #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.114:5000 
+#EXTINF:-1 group-title="Региональные",Время Н #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.220.251:5000 
+#EXTINF:-1 group-title="Региональные",Первый Городской #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.221.208:5000 
+#EXTINF:-1 group-title="Региональные",ННТВ HD #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.215:5000 
+#EXTINF:-1 group-title="Региональные",ННТВ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.221.214:5000 
+#EXTINF:-1 group-title="Региональные",НЖК #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.20.110:5000 
+#EXTINF:-1 group-title="Региональные",ТНВ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/233.99.61.108:5000 
+#EXTINF:-1 group-title="Региональные",Волга #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.221.213:5000 
+#EXTINF:-1 group-title="Региональные",К16(Саров) #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.94:5000 
+#EXTINF:-1 group-title="Региональные",ТК Дзержинск #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/233.99.61.253:5000 
+#EXTINF:-1 group-title="Региональные",Беларусь 24 #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.155:5000 
+#EXTINF:-1 group-title="Региональные",БелРос #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.153:5000 
+#EXTINF:-1 group-title="Региональные",Россия 1 (НН) #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.221.11:5000 
+#EXTINF:-1 group-title="Региональные",Россия 24 (НН) #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.61:5000 
+#EXTINF:-1 group-title="unsorted",Shopping Live #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.2:5000 
+#EXTINF:-1 group-title="unsorted",Ювелирочка #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.8:5000 
+#EXTINF:-1 group-title="unsorted",MUSIC BOX TV_Дубль_RU_TV #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.117:5000 
+#EXTINF:-1 group-title="unsorted",Союз #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.123.151:5000 
+#EXTINF:-1 group-title="unsorted",Спас #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.223.111:5000 
+#EXTINF:-1 group-title="unsorted",НТВ (+2 НН) #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/225.52.20.32:5000 
+#EXTINF:-1 group-title="unsorted",Все ТВ #EXTVLCOPT:http-user-agent=SmartSDK
+http://95.37.115.90:4088/udp/233.99.61.135:5000
