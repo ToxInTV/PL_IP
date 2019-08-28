@@ -21,5 +21,5 @@ http://85.112.114.11:8086/udp/233.170.170.112:58631
 http://46.18.202.220:8879/Pyatnica/ch1.m3u8
 #EXTINF:0 tvg-id="piatnica" group-title="Федеральные Россия",Пятница! (Резерв1)
 http://176.101.224.21:8080/udp/239.195.32.32:1234
-#EXTINF:-0 group-title="Израиль" tvg-logo="http://ekzot.ucoz.net/ch_icons/9/9_kanal_izrail.png",9 канал Израиль
-http://51.38.174.110:8081/41AEjYL0ygYWuDOcZxYc1SxYmiuOLEajYINJakIZxYW0uiYI4INVIN2ND6BQR382QrRdGra/live/tv9_id37175.m3u8
+#EXTINF:0 group-title="Израиль" tvg-logo="http://ekzot.ucoz.net/ch_icons/9/9_kanal_izrail.png",9 канал Израиль
+http://ruip.tv/6998/video.m3u8?token=u06qiW
