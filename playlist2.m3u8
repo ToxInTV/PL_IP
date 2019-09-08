@@ -27,6 +27,8 @@ http://188.128.15.118:8080/play/a163
 http://188.128.15.118:8080/play/a1
 #EXTINF:-0 group-title="Федеральные Россия",Первый канал
 http://37.235.138.155:81/udp/225.50.66.11:1234
+#EXTINF:-0 group-title="Каналы HD",Первый канал HD
+http://tv.pbx.kiev.ua/tv1/5.201
 #EXTINF:-0 group-title="Спорт",Матч! HD
 http://188.35.9.5:10007/stolen/196k/parasite.install
 #EXTINF:-0 group-title="Спорт",Матч! Арена
