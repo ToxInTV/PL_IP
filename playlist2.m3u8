@@ -63,3 +63,5 @@ http://broadcasting.cdn.contentgm.com:8080/footbal_1/video.m3u8?token=8UjWeshNwq
 http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
 #EXTINF:-0 group-title="Новости", Россия 24
 http://178.162.193.36:8081/chromecast/rossiya24-hq.stream/chunks.m3u8
+#EXTINF:-0 group-title="Зарубежные", 9 канал Израиль
+http://198.16.64.45:8081/9_izrail/index.m3u8?wmsAuthSign=1568042183S382f00173fcf8361e2d3f833623563e1S721h821h331h64
