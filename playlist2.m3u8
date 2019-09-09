@@ -9,10 +9,6 @@ http://188.128.15.118:8080/play/a60
 http://109.248.90.251:4044/udp/239.195.1.48:1234
 #EXTINF:0 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв2)
 http://37.235.145.147:81/udp/225.50.64.98:1234
-#EXTINF:0 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв3)
-http://363f49cf.iptvzone.me/iptv/3RD7RBR9A3CVSX/736/index.m3u8
-#EXTINF:0 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв4)
-http://704bdf8c.ottv.info/iptv/7EQUA3ZU8CRHVE/736/index.m3u8
 #EXTINF:0 group-title="Компьютерные игры",Game PUBG
 http://hls-ott-zhibo.wasu.tv/live/339/index.m3u8
 #EXTINF:0 group-title="Запорожские Телеканалы",ТРК Aлекс
