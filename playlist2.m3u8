@@ -79,3 +79,133 @@ http://ott.inmart.tv:8081/17/index.m3u8
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:0 group-title="Донецк",ЮНИОН
 http://ott.inmart.tv:8081/35/index.m3u8
+#EXTINF:0 group-title="Кино",Победа
+http://tv.pbx.kiev.ua/tv1/1.5
+#EXTINF:0 group-title="Кино",Нашt Крутое HD
+http://tv.pbx.kiev.ua/tv1/4.34
+#EXTINF:0 group-title="Кино",Наш Кинороман HD
+http://tv.pbx.kiev.ua/tv1/4.35
+#EXTINF:0 group-title="Кино",Любимое HD
+http://tv.pbx.kiev.ua/tv1/4.31
+#EXTINF:0 group-title="Кино",Кино Премиум HD
+http://tv.pbx.kiev.ua/tv1/4.32
+#EXTINF:0 group-title="Кино", Дом кино Premium HD
+http://tv.pbx.kiev.ua/tv1/4.86
+#EXTINF:0 group-title="Кино",Кинопремьера HD
+http://tv.pbx.kiev.ua/tv1/4.17
+#EXTINF:0 group-title="Кино",Остросюжетное HD
+http://tv.pbx.kiev.ua/tv1/4.33
+#EXTINF:0 group-title="Кино",Шокирующее HD
+http://tv.pbx.kiev.ua/tv1/4.1
+#EXTINF:0 group-title="Кино",Комедийный HD
+http://tv.pbx.kiev.ua/tv1/4.3
+#EXTINF:0 group-title="Кино", TV1000 Comedy HD
+http://tv.pbx.kiev.ua/tv1/4.93
+#EXTINF:0 group-title="Кино", TV1000 Megahit HD
+http://tv.pbx.kiev.ua/tv1/4.95
+#EXTINF:0 group-title="Кино", TV1000 Premium HD
+http://tv.pbx.kiev.ua/tv1/4.94
+#EXTINF:0 group-title="Кино", Amedia Premium HD
+http://tv.pbx.kiev.ua/tv1/4.88
+#EXTINF:0 group-title="Кино", Кино ТВ HD
+http://tv.pbx.kiev.ua/tv1/4.80
+#EXTINF:0 group-title="Кино", Кинопремьера
+http://tv.pbx.kiev.ua/tv1/4.17
+#EXTINF:0 group-title="Кино", Киносемья
+http://tv.pbx.kiev.ua/tv1/3.103
+#EXTINF:0 group-title="Кино", Киномикс
+http://tv.pbx.kiev.ua/tv1/3.125
+#EXTINF:0 group-title="Кино", Киносвидание
+http://tv.pbx.kiev.ua/tv1/3.105
+#EXTINF:0 group-title="Кино", Кинохит
+http://tv.pbx.kiev.ua/tv1/3.104
+#EXTINF:0 group-title="Кино", Киносерия
+http://tv.pbx.kiev.ua/tv1/2.50
+#EXTINF:0 group-title="Кино", Кинокомедия
+http://tv.pbx.kiev.ua/tv1/2.53
+#EXTINF:0 group-title="Кино", Наше любимое кино
+http://tv.pbx.kiev.ua/tv1/0.46
+#EXTINF:0 group-title="Кино", Родное кино
+http://tv.pbx.kiev.ua/tv1/2.49
+#EXTINF:0 group-title="Кино", Хорошее кино
+http://tv.pbx.kiev.ua/tv1/3.148
+#EXTINF:0 group-title="Кино", Мир сериала
+http://tv.pbx.kiev.ua/tv1/3.150
+#EXTINF:0 group-title="Кино", TV1000
+http://tv.pbx.kiev.ua/tv1/1.19
+#EXTINF:0 group-title="Кино", TV1000 Action
+http://tv.pbx.kiev.ua/tv1/3.109
+#EXTINF:0 group-title="Кино", TV1000 Русское кино
+http://tv.pbx.kiev.ua/tv1/3.110
+#EXTINF:0 group-title="Кино", TV1000 Comedy
+http://tv.pbx.kiev.ua/tv1/3.122
+#EXTINF:0 group-title="Кино", Amedia 1
+http://tv.pbx.kiev.ua/tv1/0.41
+#EXTINF:0 group-title="Кино", Amedia 2
+http://tv.pbx.kiev.ua/tv1/0.60
+#EXTINF:0 group-title="Кино", Cinema
+http://tv.pbx.kiev.ua/tv1/2.75
+#EXTINF:0 group-title="Кино", Дом кино
+http://tv.pbx.kiev.ua/tv1/2.2
+#EXTINF:0 group-title="Кино", Еврокино
+http://tv.pbx.kiev.ua/tv1/2.61
+#EXTINF:0 group-title="Кино", НСТ
+http://tv.pbx.kiev.ua/tv1/2.74
+#EXTINF:0 group-title="Кино", Иллюзион+
+http://tv.pbx.kiev.ua/tv1/2.28
+#EXTINF:0 group-title="Кино", Русский иллюзион
+http://tv.pbx.kiev.ua/tv1/2.60
+#EXTINF:0 group-title="Кино", Русский детектив
+http://tv.pbx.kiev.ua/tv1/3.146
+#EXTINF:0 group-title="Кино", Русский бестселлер
+http://tv.pbx.kiev.ua/tv1/3.147
+#EXTINF:0 group-title="Кино", Русский роман
+http://tv.pbx.kiev.ua/tv1/3.145
+#EXTINF:0 group-title="Кино", ТВ XXl
+http://tv.pbx.kiev.ua/tv1/2.54
+#EXTINF:0 group-title="Кино",Кинопремьера HD
+http://93.125.34.51:30002/kinopremerahd/index.m3u8
+#EXTINF:0 group-title="Кино",Кинохит
+http://93.125.34.51:30002/Kinohit/index.m3u8
+#EXTINF:0 group-title="Кино",Кинопремьера
+http://93.125.34.51:30002/kinopremerahd/index.m3u8
+#EXTINF:0 group-title="Кино",Киномикс
+http://93.125.34.51:30002/Kinomix/index.m3u8
+#EXTINF:0 group-title="Кино",Киносвидание
+http://93.125.34.51:30002/Kinosvidanie/index.m3u8
+#EXTINF:0 group-title="Кино",Родное кино
+http://93.125.34.51:30002/RodnoeKino/index.m3u8
+#EXTINF:0 group-title="Кино",НТВ+ Наше новое кино
+http://93.125.34.51:30002/NasheNovoeKino/index.m3u8
+#EXTINF:0 group-title="Кино",Мужское кино
+http://93.125.34.51:30002/Muzhskoyekino/index.m3u8
+#EXTINF:0 group-title="Кино",Дом кино
+http://93.125.34.51:30002/DomKino/index.m3u8
+#EXTINF:0 group-title="Кино",TV XXI
+http://93.125.34.51:30002/TV_21/index.m3u8
+#EXTINF:0 group-title="Кино",Кинокомедия
+http://93.125.34.51:30002/Kinokomedia/index.m3u8
+#EXTINF:0 group-title="Кино",Русский Роман
+http://93.125.34.51:30002/RusskiyRoman/index.m3u8
+#EXTINF:0 group-title="Кино",Русский бестселлер
+http://93.125.34.51:30002/Bestseller/index.m3u8
+#EXTINF:0 group-title="Кино",Иллюзион+
+http://93.125.34.51:30002/illuzion_plus/index.m3u8
+#EXTINF:0 group-title="Кино",Русский иллюзион
+http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
+#EXTINF:0 group-title="Кино",Мир сериала
+http://93.125.34.51:30002/Mir_seriala/index.m3u8
+#EXTINF:0 group-title="Кино",AmediaPremium HD
+http://93.125.34.51:30002/AmediaPremiumHD/index.m3u8
+#EXTINF:0 group-title="Кино",Феникс + Кино
+http://93.125.34.51:30002/FeniksKino/index.m3u8
+#EXTINF:0 group-title="Кино",Еврокино
+http://93.125.34.51:30002/Evrokino/index.m3u8
+#EXTINF:0 group-title="Кино",НСТ
+http://93.125.34.51:30002/NSTV/index.m3u8
+#EXTINF:0 group-title="Кино",ШОКИРУЮЩЕЕ HD
+http://188.35.9.11:2021
+#EXTINF:0 group-title="Кино",ОСТРОСЮЖЕТНОЕ HD
+http://188.35.9.11:2015
+#EXTINF:0 group-title="Кино",Русский Роман HD
+http://188.35.9.5:10007/stolen/127k/parasite.install
