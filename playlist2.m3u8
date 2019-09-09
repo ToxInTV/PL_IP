@@ -27,8 +27,6 @@ http://176.101.224.21:8080/udp/239.195.32.32:1234
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:0 group-title="Федеральные Россия",РТР-Планета
 http://tv.pbx.kiev.ua/tv1/0.54
-#EXTINF:0 group-title="Спорт",Матч HD
-http://188.128.15.118:8080/play/a163
 #EXTINF:0 group-title="Федеральные Россия",Первый канал (Резерв)
 http://46.18.202.220:8879/Perviy/ch1.m3u8
 #EXTINF:0 group-title="Федеральные Россия",Первый канал
@@ -37,24 +35,54 @@ http://37.235.138.155:81/udp/225.50.66.11:1234
 http://tv.pbx.kiev.ua/tv1/5.201
 #EXTINF:0 group-title="Каналы HD",Первый канал HD (Резерв)
 http://93.125.34.51:30002/pervhd/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч HD
+http://188.128.15.118:8080/play/a163
 #EXTINF:0 group-title="Спорт",Матч! HD
 http://188.35.9.5:10007/stolen/196k/parasite.install
+#EXTINF:0 group-title="Спорт",Матч! HD
+http://93.125.34.51:30002/MatchHD/index.m3u8 (Резерв)
 #EXTINF:0 group-title="Спорт",Матч! Арена
 http://188.128.15.118:8080/play/a97
+#EXTINF:0 group-title="Спорт",Матч! Арена HD
+http://93.125.34.51:30002/MatchArenaHD/index.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Игра HD
+http://93.125.34.51:30002/MatchIgraHD/index.m3u8
 #EXTINF:0 group-title="Спорт",Матч! Боец
 http://188.128.15.118:8080/play/a125
+#EXTINF:0 group-title="Спорт",Матч! Боец (Резерв)
+http://93.125.34.51:30002/Match_Boets/index.m3u8
+#EXTINF:0 group-title="Спорт",МАТЧ! Наш спорт
+http://93.125.34.51:30002/Match_NashSport/index.m3u8
 #EXTINF:0 group-title="Спорт",Матч! Футбол 1
 http://188.128.15.118:8080/play/a174
+#EXTINF:0 group-title="Спорт",Матч! Футбол 1 HD
+http://93.125.34.51:30002/MatchFutbol1HD/index.m3u8
 #EXTINF:0 group-title="Спорт",Матч! Футбол 2
 http://188.128.15.118:8080/play/a175
+#EXTINF:0 group-title="Спорт",Матч! Футбол 2 HD
+http://93.125.34.51:30002/MatchFutbol2HD/index.m3u8
 #EXTINF:0 group-title="Спорт",Матч! Футбол 3
 http://188.128.15.118:8080/play/a176
+#EXTINF:0 group-title="Спорт",Матч! Футбол 3 HD
+http://93.125.34.51:30002/MatchFutbol3HD/index.m3u8
 #EXTINF:0 group-title="Спорт",Setanta Sport
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:0 group-title="Спорт",Setanta Sport HD
 http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:0 group-title="Спорт",Setanta Sport HD (Резерв)
+http://93.125.34.51:30002/SetantaSportHD/index.m3u8
 #EXTINF:0 group-title="Спорт",Setanta Sport Plus HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:0 group-title="Спорт",Setanta Sport Plus HD (Резерв)
+http://93.125.34.51:30002/SetantaSportPlusHD/index.m3u8
+#EXTINF:0 group-title="Спорт",EUROSPORT 1 HD
+http://tv.pbx.kiev.ua/tv1/4.7
+#EXTINF:0 group-title="Спорт",EUROSPORT 2 HD
+http://tv.pbx.kiev.ua/tv1/4.8
+#EXTINF:0 group-title="Спорт",Eurosport1
+http://188.128.15.118:8080/play/a82
+#EXTINF:0 group-title="Спорт",Eurosport2
+http://188.128.15.118:8080/play/a83
 #EXTINF:0 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол HD 
 http://91.205.131.7:80/football/tracks-v1a1/index.m3u8 
 #EXTINF:0 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол HD (Резерв) 
