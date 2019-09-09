@@ -69,3 +69,13 @@ http://broadcasting.cdn.contentgm.com:8080/footbal_1/video.m3u8?token=8UjWeshNwq
 http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
 #EXTINF:0 group-title="Новости", Россия 24
 http://178.162.193.36:8081/chromecast/rossiya24-hq.stream/chunks.m3u8
+#EXTINF:0 group-title="Донецк",Новороссия ТВ HD
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:0 group-title="Донецк",Оплот ТВ
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:0 group-title="Донецк",Оплот ТВ 2
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:0 group-title="Донецк",Первый республиканский
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:0 group-title="Донецк",ЮНИОН
+http://ott.inmart.tv:8081/35/index.m3u8
