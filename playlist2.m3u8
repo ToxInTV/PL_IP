@@ -33,7 +33,13 @@ http://tv.pbx.kiev.ua/tv1/0.54
 http://46.18.202.220:8879/Perviy/ch1.m3u8
 #EXTINF:0 group-title="Федеральные Россия",Первый канал
 http://37.235.138.155:81/udp/225.50.66.11:1234
-#EXTINF:0 group-title="Федеральные Россия",Рен ТВ    
+#EXTINF:0 group-title="Федеральные Россия",Рен ТВ
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:0 group-title="Федеральные Россия",Рен ТВ (Резерв1)
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:0 group-title="Федеральные Россия",Рен ТВ (Резерв2)
+http://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:0 group-title="Федеральные Россия",Рен ТВ (Резерв3)
 http://176.101.224.21:8080/udp/239.195.32.18:1234
 #EXTINF:0 group-title="Федеральные Россия",ТВ3    
 http://176.101.224.21:8080/udp/239.195.32.15:1234
@@ -45,6 +51,8 @@ http://176.101.224.21:8080/udp/239.195.32.7:1234
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:0 group-title="Федеральные Россия",СТС    
 http://176.101.224.21:8080/udp/239.195.32.8:1234
+#EXTINF:0 group-title="Федеральные Россия",СТС International    
+http://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:0 group-title="Каналы HD",Первый канал HD
 http://tv.pbx.kiev.ua/tv1/5.201
 #EXTINF:0 group-title="Каналы HD",Первый канал HD (Резерв)
