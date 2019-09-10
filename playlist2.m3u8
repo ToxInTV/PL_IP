@@ -6,7 +6,7 @@ https://hls.goodgame.ru/hls/152506_720.m3u8
 #EXTINF:0 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV
 http://188.128.15.118:8080/play/a60
 #EXTINF:0 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв1)
-http://109.248.90.251:4044/udp/239.195.1.48:1234
+http://109.248.89.128:4044/udp/239.195.1.48:1234
 #EXTINF:0 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв2)
 http://37.235.145.147:81/udp/225.50.64.98:1234
 #EXTINF:0 group-title="Компьютерные игры",Game PUBG
@@ -24,13 +24,13 @@ http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:0 tvg-id="piatnica" group-title="Федеральные Россия",Пятница! (Резерв1)
 http://176.101.224.21:8080/udp/239.195.32.32:1234
 #EXTINF:0 tvg-id="piatnica" group-title="Федеральные Россия",Пятница! (Резерв2)   
-http://109.70.184.20:8080/udp/239.195.32.32:1234
+http://109.248.89.128:4044/udp/239.195.57.32:1234
 #EXTINF:0 group-title="Федеральные Россия",Россия РТР
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:0 group-title="Федеральные Россия",РТР-Планета
 http://tv.pbx.kiev.ua/tv1/0.54
 #EXTINF:0 group-title="Федеральные Россия",Первый канал (Резерв)
-http://46.18.202.220:8879/Perviy/ch1.m3u8
+http://109.248.89.128:4044/udp/239.195.52.1:1234
 #EXTINF:0 group-title="Федеральные Россия",Первый канал
 http://37.235.138.155:81/udp/225.50.66.11:1234
 #EXTINF:0 group-title="Федеральные Россия",Рен ТВ
@@ -49,7 +49,9 @@ http://176.101.224.21:8080/udp/239.195.32.14:1234
 http://176.101.224.21:8080/udp/239.195.32.7:1234
 #EXTINF:0 group-title="Федеральные Россия",ТВЦ    
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:0 group-title="Федеральные Россия",СТС    
+#EXTINF:0 group-title="Федеральные Россия",СТС  
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:0 group-title="Федеральные Россия",СТС (Резерв)
 http://176.101.224.21:8080/udp/239.195.32.8:1234
 #EXTINF:0 group-title="Федеральные Россия",СТС International    
 http://sc.id-tv.kz/STS_38_39.m3u8
