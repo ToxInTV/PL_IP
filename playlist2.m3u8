@@ -142,11 +142,11 @@ http://tv.pbx.kiev.ua/tv1/1.5
 #EXTINF:0 group-title="Кино",Нашt Крутое HD
 http://tv.pbx.kiev.ua/tv1/4.34
 #EXTINF:0 group-title="Кино",Наш Кинороман HD
-http://tv.pbx.kiev.ua/tv1/4.35
-#EXTINF:0 group-title="Кино",Любимое HD
-http://tv.pbx.kiev.ua/tv1/4.31
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/127.m3u8
+#EXTINF:0 group-title="Кино",Любимое кино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/291.m3u8
 #EXTINF:0 group-title="Кино",Кино Премиум HD
-http://tv.pbx.kiev.ua/tv1/4.32
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/128.m3u8
 #EXTINF:0 group-title="Кино",Дом кино Premium HD
 http://tv.pbx.kiev.ua/tv1/4.86
 #EXTINF:0 group-title="Кино",Кинопремьера HD
@@ -164,7 +164,7 @@ http://tv.pbx.kiev.ua/tv1/4.95
 #EXTINF:0 group-title="Кино",TV1000 Premium HD
 http://tv.pbx.kiev.ua/tv1/4.94
 #EXTINF:0 group-title="Кино",Amedia Premium HD
-http://tv.pbx.kiev.ua/tv1/4.88
+http://93.125.34.51:30002/AmediaPremiumHD/index.m3u8
 #EXTINF:0 group-title="Кино",Кино ТВ HD
 http://tv.pbx.kiev.ua/tv1/4.80
 #EXTINF:0 group-title="Кино",Кинопремьера
@@ -176,7 +176,7 @@ http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 #EXTINF:0 group-title="Кино",Киномикс
 http://tv.pbx.kiev.ua/tv1/3.125
 #EXTINF:0 group-title="Кино",Киносвидание
-http://tv.pbx.kiev.ua/tv1/3.105
+http://93.125.34.51:30002/Kinosvidanie/index.m3u8
 #EXTINF:0 group-title="Кино",Кинохит
 http://tv.pbx.kiev.ua/tv1/3.104
 #EXTINF:0 group-title="Кино",Киносерия
@@ -208,13 +208,13 @@ http://tv.pbx.kiev.ua/tv1/2.75
 #EXTINF:0 group-title="Кино",Дом кино
 http://tv.pbx.kiev.ua/tv1/2.2
 #EXTINF:0 group-title="Кино",Еврокино
-http://tv.pbx.kiev.ua/tv1/2.61
+http://93.125.34.51:30002/Evrokino/index.m3u8
 #EXTINF:0 group-title="Кино",НСТ
 http://tv.pbx.kiev.ua/tv1/2.74
 #EXTINF:0 group-title="Кино",НСТ (Резерв)   
 http://ott-cdn.ucom.am/s87/04.m3u8
 #EXTINF:0 group-title="Кино",Иллюзион+
-http://tv.pbx.kiev.ua/tv1/2.28
+http://93.125.34.51:30002/illuzion_plus/index.m3u8
 #EXTINF:0 group-title="Кино",Русский иллюзион
 http://tv.pbx.kiev.ua/tv1/2.60
 #EXTINF:0 group-title="Кино",Русский детектив
@@ -224,7 +224,7 @@ http://tv.pbx.kiev.ua/tv1/3.147
 #EXTINF:0 group-title="Кино",Русский роман
 http://tv.pbx.kiev.ua/tv1/3.145
 #EXTINF:0 group-title="Кино",ТВ XXl
-http://tv.pbx.kiev.ua/tv1/2.54
+http://93.125.34.51:30002/TV_21/index.m3u8
 #EXTINF:0 group-title="Кино",Кинопремьера HD
 http://93.125.34.51:30002/kinopremerahd/index.m3u8
 #EXTINF:0 group-title="Кино",Кинохит
