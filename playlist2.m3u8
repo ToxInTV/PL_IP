@@ -73,28 +73,64 @@ http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/165.m3u8
 https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://188.128.15.118:8080/play/a97
+#EXTINF:-1 group-title="Спорт",Матч! Арена (Резерв)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/210.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена (Резерв2)
+http://tvport.it-tele.net:8000/d2faf835aca2f651e848c5bd3280c166
+#EXTINF:-1 group-title="Спорт",Матч! Арена (Резерв2)
+http://78.30.254.43:8989/udp/238.1.3.90:1234
+#EXTINF:-1 group-title="Спорт",Матч! Арена (Резерв3)
+http://ygk.info/stream/22E8AWHQEC4LCA/528/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Арена HD
-http://93.125.34.51:30002/MatchArenaHD/index.m3u8
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/104.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ Премьер
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/181.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ Премьер HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/720.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ Премьер HD (Резерв)
+http://78.30.254.43:8989/udp/238.1.2.197:1234
 #EXTINF:-1 group-title="Спорт",Матч! Игра HD
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/117.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Боец
 http://188.128.15.118:8080/play/a125
 #EXTINF:-1 group-title="Спорт",Матч! Боец (Резерв)
-http://93.125.34.51:30002/Match_Boets/index.m3u8
-#EXTINF:-1 group-title="Спорт",МАТЧ! Наш спорт
-http://93.125.34.51:30002/Match_NashSport/index.m3u8
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/217.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Боец (Резерв2)
+http://broadcasting.cdn.contentgm.com:8080/boets/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1 group-title="Спорт",Матч! Боец (Резерв3)
+http://78.30.254.43:8989/udp/238.1.3.99:1234
+#EXTINF:-1 group-title="Спорт",Матч! Боец (Резерв4)
+http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Боец (Резерв5)
+http://tvport.it-tele.net:8000/4aa07d054dd6110d997c5836434e7c8a
+#EXTINF:-1 group-title="Спорт",МАТЧ! Страна
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/332.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! Страна (Резерв)
+http://188.128.15.118:8080/play/a95
+#EXTINF:-1 group-title="Спорт",МАТЧ! Страна (Резерв2)
+http://aa826ad7.iptvspy.me/iptv/AUWAUBYRPMAHLZ/107/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! Страна (Резерв3)
+http://ygk.info/stream/22E8AWHQEC4LCA/107/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://188.128.15.118:8080/play/a174
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://93.125.34.51:30002/MatchFutbol1HD/index.m3u8
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/118.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD (Резерв)
+http://78.30.254.43:8989/udp/238.1.4.42:1234
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD (Резерв2)
+http://78.30.254.43:8989/udp/238.1.2.42:1234
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://188.128.15.118:8080/play/a175
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://93.125.34.51:30002/MatchFutbol2HD/index.m3u8
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/105.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD (Резерв)
+http://188.35.9.11:2011
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://188.128.15.118:8080/play/a176
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://93.125.34.51:30002/MatchFutbol3HD/index.m3u8
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/656.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD (Резерв)
+http://78.30.254.43:8989/udp/238.1.2.52:1234
 #EXTINF:-1 group-title="Спорт",Setanta Sport
 http://ott-cdn.ucom.am/s81/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sport HD
@@ -287,6 +323,8 @@ http://ott-cdn.ucom.am/s62/04.m3u8
 http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1 group-title="Мужские",ОХОТНИК И РЫБОЛОВ (Резерв)
 http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:-1 group-title="Мужские",ОХОТНИК И РЫБОЛОВ (Резерв2)
+ http://78.30.254.43:8989/udp/238.1.4.199:1234
 #EXTINF:-1 group-title="Мужские",Диалоги о Рыбалке
 http://78.30.254.43:8989/udp/238.1.4.194:1234 
 #EXTINF:-1 group-title="Украина",Интер
