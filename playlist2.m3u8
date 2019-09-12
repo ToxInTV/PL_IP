@@ -248,7 +248,7 @@ http://193.201.98.123:7000/play/a00w
 #EXTINF:-1 group-title="Кино",Киномикс (Резерв)
 http://broadcasting.cdn.contentgm.com:8080/kinomiks/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 group-title="Кино",Киносвидание
-http://93.125.34.51:30002/Kinosvidanie/index.m3u8
+http://broadcasting.cdn.contentgm.com:8080/kinosvidanie/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 group-title="Кино",Кинохит
 http://tv.pbx.kiev.ua/tv1/3.104
 #EXTINF:-1 group-title="Кино",Киносерия
