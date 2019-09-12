@@ -9,6 +9,8 @@ http://188.128.15.118:8080/play/a60
 http://109.248.91.6:4044/udp/239.195.1.48:1234
 #EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png", E TV (Резерв2)
 http://37.235.145.147:81/udp/225.50.64.98:1234
+#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png", E TV (Резерв3)
+http://78.30.254.43:8989/udp/238.1.3.152:1234
 #EXTINF:-1 group-title="Компьютерные игры", Game PUBG
 http://hls-ott-zhibo.wasu.tv/live/339/index.m3u8
 #EXTINF:-1 group-title="Запорожские Телеканалы", ТРК Aлекс
@@ -58,7 +60,7 @@ http://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 group-title="Каналы HD", Первый канал HD
 http://tv.pbx.kiev.ua/tv1/5.201
 #EXTINF:-1 group-title="Каналы HD", Первый канал HD (Резерв)
-http://93.125.34.51:30002/pervhd/index.m3u8
+http://188.242.220.229:81/udp/239.239.3.50:5239
 #EXTINF:-1 group-title="Спорт", Матч HD
 http://188.128.15.118:8080/play/a163
 #EXTINF:-1 group-title="Спорт", Матч! HD
@@ -100,9 +102,9 @@ http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sport Plus HD (Резерв)
 http://93.125.34.51:30002/SetantaSportPlusHD/index.m3u8
 #EXTINF:-1 group-title="Спорт", EUROSPORT 1 HD
-http://tv.pbx.kiev.ua/tv1/4.7
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/167.m3u8
 #EXTINF:-1 group-title="Спорт", EUROSPORT 2 HD
-http://tv.pbx.kiev.ua/tv1/4.8
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/161.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport1
 http://188.128.15.118:8080/play/a82
 #EXTINF:-1 group-title="Спорт", Eurosport2
@@ -138,9 +140,15 @@ http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="Донецк", ЮНИОН
 http://ott.inmart.tv:8081/35/index.m3u8
 #EXTINF:-1 group-title="Кино", Победа
-http://tv.pbx.kiev.ua/tv1/1.5
+http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:-1 group-title="Кино", Победа (Резерв1)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2208.m3u8
+#EXTINF:-1 group-title="Кино", Победа (Резерв2)
+http://62.210.81.3/TV/FLASH-TV/n/mac/850.m3u8
+#EXTINF:-1 group-title="Кино", Победа (Резерв3)
+http://78.30.254.43:8989/udp/238.1.3.152:1234
 #EXTINF:-1 group-title="Кино", Наше Крутое HD
-http://tv.pbx.kiev.ua/tv1/4.34
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1331.m3u8
 #EXTINF:-1 group-title="Кино", Наш Кинороман HD
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/127.m3u8
 #EXTINF:-1 group-title="Кино", Любимое кино
@@ -277,6 +285,8 @@ http://ott-cdn.ucom.am/s62/04.m3u8
 http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1 group-title="Мужские", ОХОТНИК И РЫБОЛОВ (Резерв)
 http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:-1 group-title="Мужские", Диалоги о Рыбалке
+http://78.30.254.43:8989/udp/238.1.4.194:1234 
 #EXTINF:-1 group-title="Украина", Интер    
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 group-title="Украина", К1    
