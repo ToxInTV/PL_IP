@@ -24,13 +24,13 @@ http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия", Пятница! (Резерв1)
 http://176.101.224.21:8080/udp/239.195.32.32:1234
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия", Пятница! (Резерв2)   
-http://109.248.89.128:4044/udp/239.195.57.32:1234
+http://109.248.91.6:4044/udp/239.195.57.32:1234
 #EXTINF:-1 group-title="Федеральные Россия", Россия РТР
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Федеральные Россия", РТР-Планета
 http://tv.pbx.kiev.ua/tv1/0.54
 #EXTINF:-1 group-title="Федеральные Россия", Первый канал (Резерв)
-http://109.248.89.128:4044/udp/239.195.52.1:1234
+http://109.248.91.6:4044/udp/239.195.52.1:1234
 #EXTINF:-1 group-title="Федеральные Россия", Первый канал
 http://37.235.138.155:81/udp/225.50.66.11:1234
 #EXTINF:-1 group-title="Федеральные Россия", Рен ТВ
