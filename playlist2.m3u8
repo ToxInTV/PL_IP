@@ -160,9 +160,7 @@ http://188.128.15.118:8080/play/a82
 #EXTINF:-1 group-title="Спорт",Eurosport2
 http://188.128.15.118:8080/play/a83
 #EXTINF:-1 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол HD
-http://91.205.131.7:80/football/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол HD (Резерв)
-http://78.29.1.66/live/football_hd/copy/playlist.m3u8 
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2326.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол (Резерв1)
 http://83.246.208.234:81/udp/239.54.7.153:1224?codec=mpeg4 
 #EXTINF:-1 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол (Резерв2)
@@ -176,7 +174,11 @@ http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 group-title="Новости",Россия 24
 http://188.128.15.118:8080/play/a16
 #EXTINF:-1 group-title="Новости",Россия 24 (Резерв)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24 (Резерв2)
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24 (Резерв2)
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Новости",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Известия ТВ [FHD]
@@ -210,7 +212,11 @@ http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/128.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино Premium HD
 http://tv.pbx.kiev.ua/tv1/4.86
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
-http://tv.pbx.kiev.ua/tv1/4.17
+http://62.210.81.3/TV/FLASH-TV/n/mac/626.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD (Резерв)
+http://ygk.info/stream/22E8AWHQEC4LCA/224/index.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD (Резерв2)
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8
 #EXTINF:-1 group-title="Кино",Остросюжетное HD
 http://tv.pbx.kiev.ua/tv1/4.33
 #EXTINF:-1 group-title="Кино",Шокирующее HD
