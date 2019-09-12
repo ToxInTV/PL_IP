@@ -174,11 +174,11 @@ http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 group-title="Новости",Россия 24
 http://188.128.15.118:8080/play/a16
 #EXTINF:-1 group-title="Новости",Россия 24 (Резерв)
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24 (Резерв2)
 http://ott-cdn.ucom.am/s21/04.m3u8
-#EXTINF:-1 group-title="Новости",Россия 24 (Резерв2)
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24 (Резерв3)
+http://109.70.184.20:8080/udp/239.195.32.4:1234
 #EXTINF:-1 group-title="Новости",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Известия ТВ [FHD]
@@ -230,7 +230,11 @@ http://tv.pbx.kiev.ua/tv1/4.95
 #EXTINF:-1 group-title="Кино",TV1000 Premium HD
 http://tv.pbx.kiev.ua/tv1/4.94
 #EXTINF:-1 group-title="Кино",Amedia Premium HD
-http://93.125.34.51:30002/AmediaPremiumHD/index.m3u8
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/242.m3u8
+#EXTINF:-1 group-title="Кино",КиноЗаказ 1
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="Кино",КиноЗаказ 2
+http://hls.goodgame.ru/hls/12949.m3u8
 #EXTINF:-1 group-title="Кино",Кино ТВ HD
 http://tv.pbx.kiev.ua/tv1/4.80
 #EXTINF:-1 group-title="Кино",Кинопремьера
@@ -240,7 +244,9 @@ http://tv.pbx.kiev.ua/tv1/3.103
 #EXTINF:-1 group-title="Кино",Киноменю HD
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
-http://tv.pbx.kiev.ua/tv1/3.125
+http://193.201.98.123:7000/play/a00w
+#EXTINF:-1 group-title="Кино",Киномикс (Резерв)
+http://broadcasting.cdn.contentgm.com:8080/kinomiks/video.m3u8?token=8UjWeshNwq
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://93.125.34.51:30002/Kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинохит
