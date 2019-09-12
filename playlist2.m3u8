@@ -1,293 +1,295 @@
 #EXTM3U
-#EXTINF:-1 group-title="Компьютерные игры", GAMESPROUT.TV
+#EXTINF:-1 group-title="Компьютерные игры",GAMESPROUT.TV
 http://hls.goodgame.ru/hls/152506.m3u8
-#EXTINF:-1 group-title="Компьютерные игры", GAMESPROUT.TV (Резерв1)
+#EXTINF:-1 group-title="Компьютерные игры",GAMESPROUT.TV (Резерв1)
 https://hls.goodgame.ru/hls/152506_720.m3u8
-#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png", E TV
+#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV
 http://188.128.15.118:8080/play/a60
-#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png", E TV (Резерв1)
+#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв1)
 http://109.248.91.6:4044/udp/239.195.1.48:1234
-#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png", E TV (Резерв2)
+#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв2)
 http://37.235.145.147:81/udp/225.50.64.98:1234
-#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png", E TV (Резерв3)
+#EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв3)
 http://78.30.254.43:8989/udp/238.1.3.152:1234
-#EXTINF:-1 group-title="Компьютерные игры", Game PUBG
+#EXTINF:-1 group-title="Компьютерные игры",Game PUBG
 http://hls-ott-zhibo.wasu.tv/live/339/index.m3u8
-#EXTINF:-1 group-title="Запорожские Телеканалы", ТРК Aлекс
+#EXTINF:-1 group-title="Запорожские Телеканалы",ТРК Aлекс
 http://46.46.112.223/live/livestream1.m3u8
-#EXTINF:-1 group-title="Запорожские Телеканалы", ТВ-5 (Запорожье)
+#EXTINF:-1 group-title="Запорожские Телеканалы",ТВ-5 (Запорожье)
 http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/chunklist_w1916489774.m3u8
-#EXTINF:-1 tvg-id="piatnica" group-title="Каналы HD", Пятница! HD
+#EXTINF:-1 tvg-id="piatnica" group-title="Каналы HD",Пятница! HD
 http://85.112.114.11:8086/udp/233.170.170.112:58631
-#EXTINF:-1 tvg-id="piatnica" group-title="Каналы HD", Пятница! HD (Резерв1)
+#EXTINF:-1 tvg-id="piatnica" group-title="Каналы HD",Пятница! HD (Резерв1)
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия", Пятница!
+#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия",Пятница!
 http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия", Пятница! (Резерв1)
+#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия",Пятница! (Резерв1)
 http://176.101.224.21:8080/udp/239.195.32.32:1234
-#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия", Пятница! (Резерв2)   
+#EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия",Пятница! (Резерв2)
 http://109.248.91.6:4044/udp/239.195.57.32:1234
-#EXTINF:-1 group-title="Федеральные Россия", Россия РТР
+#EXTINF:-1 group-title="Федеральные Россия",Россия РТР
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Федеральные Россия", РТР-Планета
+#EXTINF:-1 group-title="Федеральные Россия",РТР-Планета
 http://tv.pbx.kiev.ua/tv1/0.54
-#EXTINF:-1 group-title="Федеральные Россия", Первый канал (Резерв)
+#EXTINF:-1 group-title="Федеральные Россия",Первый канал (Резерв)
 http://109.248.91.6:4044/udp/239.195.52.1:1234
-#EXTINF:-1 group-title="Федеральные Россия", Первый канал
+#EXTINF:-1 group-title="Федеральные Россия",Первый канал
 http://37.235.138.155:81/udp/225.50.66.11:1234
-#EXTINF:-1 group-title="Федеральные Россия", Рен ТВ
+#EXTINF:-1 group-title="Федеральные Россия",Рен ТВ
 http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1 group-title="Федеральные Россия", Рен ТВ (Резерв1)
+#EXTINF:-1 group-title="Федеральные Россия",Рен ТВ (Резерв1)
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="Федеральные Россия", Рен ТВ (Резерв2)
+#EXTINF:-1 group-title="Федеральные Россия",Рен ТВ (Резерв2)
 http://sc.id-tv.kz/RenTV_38_39.m3u8
-#EXTINF:-1 group-title="Федеральные Россия", Рен ТВ (Резерв3)
+#EXTINF:-1 group-title="Федеральные Россия",Рен ТВ (Резерв3)
 http://176.101.224.21:8080/udp/239.195.32.18:1234
-#EXTINF:-1 group-title="Федеральные Россия", ТВ3    
+#EXTINF:-1 group-title="Федеральные Россия",ТВ3
 http://176.101.224.21:8080/udp/239.195.32.15:1234
-#EXTINF:-1 group-title="Федеральные Россия", Пятый канал    
+#EXTINF:-1 group-title="Федеральные Россия",Пятый канал
 http://176.101.224.21:8080/udp/239.195.32.14:1234
-#EXTINF:-1 group-title="Федеральные Россия", НТВ    
+#EXTINF:-1 group-title="Федеральные Россия",НТВ
 http://176.101.224.21:8080/udp/239.195.32.7:1234
-#EXTINF:-1 group-title="Федеральные Россия", ТВЦ    
+#EXTINF:-1 group-title="Федеральные Россия",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:-1 group-title="Федеральные Россия", СТС  
+#EXTINF:-1 group-title="Федеральные Россия",СТС
 http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 group-title="Федеральные Россия", СТС (Резерв)
+#EXTINF:-1 group-title="Федеральные Россия",СТС (Резерв)
 http://176.101.224.21:8080/udp/239.195.32.8:1234
-#EXTINF:-1 group-title="Федеральные Россия", СТС International    
+#EXTINF:-1 group-title="Федеральные Россия",СТС International
 http://sc.id-tv.kz/STS_38_39.m3u8
-#EXTINF:-1 group-title="Каналы HD", Первый канал HD
+#EXTINF:-1 group-title="Каналы HD",Первый канал HD
 http://tv.pbx.kiev.ua/tv1/5.201
-#EXTINF:-1 group-title="Каналы HD", Первый канал HD (Резерв)
+#EXTINF:-1 group-title="Каналы HD",Первый канал HD (Резерв)
 http://188.242.220.229:81/udp/239.239.3.50:5239
-#EXTINF:-1 group-title="Спорт", Матч HD
+#EXTINF:-1 group-title="Спорт",Матч HD
 http://188.128.15.118:8080/play/a163
-#EXTINF:-1 group-title="Спорт", Матч! HD
+#EXTINF:-1 group-title="Спорт",Матч! HD
 http://188.35.9.5:10007/stolen/196k/parasite.install
-#EXTINF:-1 group-title="Спорт", Матч! HD (Резерв)
-http://93.125.34.51:30002/MatchHD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Арена
+#EXTINF:-1 group-title="Спорт",Матч! HD (Резерв)
+http://78.30.254.43:8989/udp/238.1.4.139:1234
+#EXTINF:-1 group-title="Спорт",Матч! HD (Резерв2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/165.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! HD (Резерв3)
+https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена
 http://188.128.15.118:8080/play/a97
-#EXTINF:-1 group-title="Спорт", Матч! Арена HD
+#EXTINF:-1 group-title="Спорт",Матч! Арена HD
 http://93.125.34.51:30002/MatchArenaHD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Игра HD
-http://93.125.34.51:30002/MatchIgraHD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Боец
+#EXTINF:-1 group-title="Спорт",Матч! Игра HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/117.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Боец
 http://188.128.15.118:8080/play/a125
-#EXTINF:-1 group-title="Спорт", Матч! Боец (Резерв)
+#EXTINF:-1 group-title="Спорт",Матч! Боец (Резерв)
 http://93.125.34.51:30002/Match_Boets/index.m3u8
-#EXTINF:-1 group-title="Спорт", МАТЧ! Наш спорт
+#EXTINF:-1 group-title="Спорт",МАТЧ! Наш спорт
 http://93.125.34.51:30002/Match_NashSport/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://188.128.15.118:8080/play/a174
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
 http://93.125.34.51:30002/MatchFutbol1HD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://188.128.15.118:8080/play/a175
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
 http://93.125.34.51:30002/MatchFutbol2HD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://188.128.15.118:8080/play/a176
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
 http://93.125.34.51:30002/MatchFutbol3HD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sport
+#EXTINF:-1 group-title="Спорт",Setanta Sport
 http://ott-cdn.ucom.am/s81/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sport HD
+#EXTINF:-1 group-title="Спорт",Setanta Sport HD
 http://92.46.127.146:8080/SetantaSport/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sport HD (Резерв)
+#EXTINF:-1 group-title="Спорт",Setanta Sport HD (Резерв)
 http://93.125.34.51:30002/SetantaSportHD/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sport Plus HD
+#EXTINF:-1 group-title="Спорт",Setanta Sport Plus HD
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sport Plus HD (Резерв)
+#EXTINF:-1 group-title="Спорт",Setanta Sport Plus HD (Резерв)
 http://93.125.34.51:30002/SetantaSportPlusHD/index.m3u8
-#EXTINF:-1 group-title="Спорт", EUROSPORT 1 HD
+#EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/167.m3u8
-#EXTINF:-1 group-title="Спорт", EUROSPORT 2 HD
+#EXTINF:-1 group-title="Спорт",EUROSPORT 2 HD
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/161.m3u8
-#EXTINF:-1 group-title="Спорт", Eurosport1
+#EXTINF:-1 group-title="Спорт",Eurosport1
 http://188.128.15.118:8080/play/a82
-#EXTINF:-1 group-title="Спорт", Eurosport2
+#EXTINF:-1 group-title="Спорт",Eurosport2
 http://188.128.15.118:8080/play/a83
-#EXTINF:-1 tvg-id="football-ru" group-title="Спорт", Телеканал Футбол HD 
+#EXTINF:-1 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол HD
 http://91.205.131.7:80/football/tracks-v1a1/index.m3u8 
-#EXTINF:-1 tvg-id="football-ru" group-title="Спорт", Телеканал Футбол HD (Резерв) 
+#EXTINF:-1 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол HD (Резерв)
 http://78.29.1.66/live/football_hd/copy/playlist.m3u8 
-#EXTINF:-1 tvg-id="football-ru" group-title="Спорт", Телеканал Футбол (Резерв1) 
+#EXTINF:-1 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол (Резерв1)
 http://83.246.208.234:81/udp/239.54.7.153:1224?codec=mpeg4 
-#EXTINF:-1 tvg-id="football-ru" group-title="Спорт", Телеканал Футбол (Резерв2) 
+#EXTINF:-1 tvg-id="football-ru" group-title="Спорт",Телеканал Футбол (Резерв2)
 http://188.128.15.118:8080/play/a148
-#EXTINF:-1 tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2189.png", Футбол 1 Украина 
+#EXTINF:-1 tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2189.png",Футбол 1 Украина
 http://broadcasting.cdn.contentgm.com:8080/footbal_1/video.m3u8?token=8UjWeshNwq
-#EXTINF:-1 tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2189.png", Футбол 1 Украина (Резерв)
+#EXTINF:-1 tvg-id="football1-ua" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2189.png",Футбол 1 Украина (Резерв)
 http://176.120.119.93:65123/udp/239.0.0.224:4000
-#EXTINF:-1 tvg-id="football2-ua" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2190.png", Футбол 2 Украина 
+#EXTINF:-1 tvg-id="football2-ua" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2190.png",Футбол 2 Украина
 http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
-#EXTINF:-1 group-title="Новости", Россия 24
+#EXTINF:-1 group-title="Новости",Россия 24
 http://178.162.193.36:8081/chromecast/rossiya24-hq.stream/chunks.m3u8
-#EXTINF:-1 group-title="Новости", Известия ТВ HD    
+#EXTINF:-1 group-title="Новости",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Известия ТВ [FHD]    
+#EXTINF:-1 group-title="Новости",Известия ТВ [FHD]
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Донецк", Новороссия ТВ HD
+#EXTINF:-1 group-title="Донецк",Новороссия ТВ HD
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1 group-title="Донецк", Оплот ТВ
+#EXTINF:-1 group-title="Донецк",Оплот ТВ
 http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:-1 group-title="Донецк", Оплот ТВ 2
+#EXTINF:-1 group-title="Донецк",Оплот ТВ 2
 http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1 group-title="Донецк", Первый республиканский
+#EXTINF:-1 group-title="Донецк",Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1 group-title="Донецк", ЮНИОН
+#EXTINF:-1 group-title="Донецк",ЮНИОН
 http://ott.inmart.tv:8081/35/index.m3u8
-#EXTINF:-1 group-title="Кино", Победа
+#EXTINF:-1 group-title="Кино",Победа
 http://ott-cdn.ucom.am/s47/index.m3u8
-#EXTINF:-1 group-title="Кино", Победа (Резерв1)
+#EXTINF:-1 group-title="Кино",Победа (Резерв1)
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2208.m3u8
-#EXTINF:-1 group-title="Кино", Победа (Резерв2)
+#EXTINF:-1 group-title="Кино",Победа (Резерв2)
 http://62.210.81.3/TV/FLASH-TV/n/mac/850.m3u8
-#EXTINF:-1 group-title="Кино", Победа (Резерв3)
+#EXTINF:-1 group-title="Кино",Победа (Резерв3)
 http://78.30.254.43:8989/udp/238.1.3.152:1234
-#EXTINF:-1 group-title="Кино", Наше Крутое HD
+#EXTINF:-1 group-title="Кино",Наше Крутое HD
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1331.m3u8
-#EXTINF:-1 group-title="Кино", Наш Кинороман HD
+#EXTINF:-1 group-title="Кино",Наш Кинороман HD
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/127.m3u8
-#EXTINF:-1 group-title="Кино", Любимое кино
+#EXTINF:-1 group-title="Кино",Любимое кино
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/291.m3u8
-#EXTINF:-1 group-title="Кино", Кино Премиум HD
+#EXTINF:-1 group-title="Кино",Кино Премиум HD
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/128.m3u8
-#EXTINF:-1 group-title="Кино", Дом кино Premium HD
+#EXTINF:-1 group-title="Кино",Дом кино Premium HD
 http://tv.pbx.kiev.ua/tv1/4.86
-#EXTINF:-1 group-title="Кино", Кинопремьера HD
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
 http://tv.pbx.kiev.ua/tv1/4.17
-#EXTINF:-1 group-title="Кино", Остросюжетное HD
+#EXTINF:-1 group-title="Кино",Остросюжетное HD
 http://tv.pbx.kiev.ua/tv1/4.33
-#EXTINF:-1 group-title="Кино", Шокирующее HD
+#EXTINF:-1 group-title="Кино",Шокирующее HD
 http://tv.pbx.kiev.ua/tv1/4.1
-#EXTINF:-1 group-title="Кино", Комедийный HD
+#EXTINF:-1 group-title="Кино",Комедийный HD
 http://tv.pbx.kiev.ua/tv1/4.3
-#EXTINF:-1 group-title="Кино", TV1000 Comedy HD
+#EXTINF:-1 group-title="Кино",TV1000 Comedy HD
 http://tv.pbx.kiev.ua/tv1/4.93
-#EXTINF:-1 group-title="Кино", TV1000 Megahit HD
+#EXTINF:-1 group-title="Кино",TV1000 Megahit HD
 http://tv.pbx.kiev.ua/tv1/4.95
-#EXTINF:-1 group-title="Кино", TV1000 Premium HD
+#EXTINF:-1 group-title="Кино",TV1000 Premium HD
 http://tv.pbx.kiev.ua/tv1/4.94
-#EXTINF:-1 group-title="Кино", Amedia Premium HD
+#EXTINF:-1 group-title="Кино",Amedia Premium HD
 http://93.125.34.51:30002/AmediaPremiumHD/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ HD
+#EXTINF:-1 group-title="Кино",Кино ТВ HD
 http://tv.pbx.kiev.ua/tv1/4.80
-#EXTINF:-1 group-title="Кино", Кинопремьера
+#EXTINF:-1 group-title="Кино",Кинопремьера
 http://tv.pbx.kiev.ua/tv1/4.17
-#EXTINF:-1 group-title="Кино", Киносемья
+#EXTINF:-1 group-title="Кино",Киносемья
 http://tv.pbx.kiev.ua/tv1/3.103
-#EXTINF:-1 group-title="Кино", Киноменю HD    
+#EXTINF:-1 group-title="Кино",Киноменю HD
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Киномикс
+#EXTINF:-1 group-title="Кино",Киномикс
 http://tv.pbx.kiev.ua/tv1/3.125
-#EXTINF:-1 group-title="Кино", Киносвидание
+#EXTINF:-1 group-title="Кино",Киносвидание
 http://93.125.34.51:30002/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинохит
+#EXTINF:-1 group-title="Кино",Кинохит
 http://tv.pbx.kiev.ua/tv1/3.104
-#EXTINF:-1 group-title="Кино", Киносерия
+#EXTINF:-1 group-title="Кино",Киносерия
 http://tv.pbx.kiev.ua/tv1/2.50
-#EXTINF:-1 group-title="Кино", Кинокомедия
+#EXTINF:-1 group-title="Кино",Кинокомедия
 http://tv.pbx.kiev.ua/tv1/2.53
-#EXTINF:-1 group-title="Кино", Наше любимое кино
+#EXTINF:-1 group-title="Кино",Наше любимое кино
 http://tv.pbx.kiev.ua/tv1/0.46
-#EXTINF:-1 group-title="Кино", Родное кино
+#EXTINF:-1 group-title="Кино",Родное кино
 http://tv.pbx.kiev.ua/tv1/2.49
-#EXTINF:-1 group-title="Кино", Хорошее кино
+#EXTINF:-1 group-title="Кино",Хорошее кино
 http://tv.pbx.kiev.ua/tv1/3.148
-#EXTINF:-1 group-title="Кино", Мир сериала
+#EXTINF:-1 group-title="Кино",Мир сериала
 http://tv.pbx.kiev.ua/tv1/3.150
-#EXTINF:-1 group-title="Кино", TV1000
+#EXTINF:-1 group-title="Кино",TV1000
 http://tv.pbx.kiev.ua/tv1/1.19
-#EXTINF:-1 group-title="Кино", TV1000 Action
+#EXTINF:-1 group-title="Кино",TV1000 Action
 http://tv.pbx.kiev.ua/tv1/3.109
-#EXTINF:-1 group-title="Кино", TV1000 Русское кино
+#EXTINF:-1 group-title="Кино",TV1000 Русское кино
 http://tv.pbx.kiev.ua/tv1/3.110
-#EXTINF:-1 group-title="Кино", TV1000 Comedy
+#EXTINF:-1 group-title="Кино",TV1000 Comedy
 http://tv.pbx.kiev.ua/tv1/3.122
-#EXTINF:-1 group-title="Кино", Amedia 1
+#EXTINF:-1 group-title="Кино",Amedia 1
 http://tv.pbx.kiev.ua/tv1/0.41
-#EXTINF:-1 group-title="Кино", Amedia 2
+#EXTINF:-1 group-title="Кино",Amedia 2
 http://tv.pbx.kiev.ua/tv1/0.60
-#EXTINF:-1 group-title="Кино", Cinema
+#EXTINF:-1 group-title="Кино",Cinema
 http://tv.pbx.kiev.ua/tv1/2.75
-#EXTINF:-1 group-title="Кино", Дом кино
+#EXTINF:-1 group-title="Кино",Дом кино
 http://tv.pbx.kiev.ua/tv1/2.2
-#EXTINF:-1 group-title="Кино", Еврокино
+#EXTINF:-1 group-title="Кино",Еврокино
 http://93.125.34.51:30002/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Кино", НСТ
+#EXTINF:-1 group-title="Кино",НСТ
 http://tv.pbx.kiev.ua/tv1/2.74
-#EXTINF:-1 group-title="Кино", НСТ (Резерв)   
+#EXTINF:-1 group-title="Кино",НСТ (Резерв)
 http://ott-cdn.ucom.am/s87/04.m3u8
-#EXTINF:-1 group-title="Кино", Иллюзион+
+#EXTINF:-1 group-title="Кино",Иллюзион+
 http://93.125.34.51:30002/illuzion_plus/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский иллюзион
+#EXTINF:-1 group-title="Кино",Русский иллюзион
 http://tv.pbx.kiev.ua/tv1/2.60
-#EXTINF:-1 group-title="Кино", Русский детектив
+#EXTINF:-1 group-title="Кино",Русский детектив
 http://tv.pbx.kiev.ua/tv1/3.146
-#EXTINF:-1 group-title="Кино", Русский бестселлер
+#EXTINF:-1 group-title="Кино",Русский бестселлер
 http://tv.pbx.kiev.ua/tv1/3.147
-#EXTINF:-1 group-title="Кино", Русский роман
+#EXTINF:-1 group-title="Кино",Русский роман
 http://tv.pbx.kiev.ua/tv1/3.145
-#EXTINF:-1 group-title="Кино", ТВ XX1
-http://93.125.34.51:30002/TV_21/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинопремьера HD
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
 http://93.125.34.51:30002/kinopremerahd/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинохит
+#EXTINF:-1 group-title="Кино",Кинохит
 http://93.125.34.51:30002/Kinohit/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинопремьера
+#EXTINF:-1 group-title="Кино",Кинопремьера
 http://93.125.34.51:30002/kinopremerahd/index.m3u8
-#EXTINF:-1 group-title="Кино", Киномикс
+#EXTINF:-1 group-title="Кино",Киномикс
 http://93.125.34.51:30002/Kinomix/index.m3u8
-#EXTINF:-1 group-title="Кино", Киносвидание
+#EXTINF:-1 group-title="Кино",Киносвидание
 http://93.125.34.51:30002/Kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="Кино", Родное кино
+#EXTINF:-1 group-title="Кино",Родное кино
 http://93.125.34.51:30002/RodnoeKino/index.m3u8
-#EXTINF:-1 group-title="Кино", НТВ+ Наше новое кино
+#EXTINF:-1 group-title="Кино",Наше новое кино
 http://93.125.34.51:30002/NasheNovoeKino/index.m3u8
-#EXTINF:-1 group-title="Кино", Мужское кино
+#EXTINF:-1 group-title="Кино",Мужское кино
 http://93.125.34.51:30002/Muzhskoyekino/index.m3u8
-#EXTINF:-1 group-title="Кино", Дом кино
+#EXTINF:-1 group-title="Кино",Дом кино
 http://93.125.34.51:30002/DomKino/index.m3u8
-#EXTINF:-1 group-title="Кино", TV XXI
+#EXTINF:-1 group-title="Кино",TV XXI
 http://93.125.34.51:30002/TV_21/index.m3u8
-#EXTINF:-1 group-title="Кино", Кинокомедия
+#EXTINF:-1 group-title="Кино",Кинокомедия
 http://93.125.34.51:30002/Kinokomedia/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский Роман
+#EXTINF:-1 group-title="Кино",Русский Роман
 http://93.125.34.51:30002/RusskiyRoman/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский бестселлер
+#EXTINF:-1 group-title="Кино",Русский бестселлер
 http://93.125.34.51:30002/Bestseller/index.m3u8
-#EXTINF:-1 group-title="Кино", Иллюзион+
+#EXTINF:-1 group-title="Кино",Иллюзион+
 http://93.125.34.51:30002/illuzion_plus/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский иллюзион
+#EXTINF:-1 group-title="Кино",Русский иллюзион
 http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
-#EXTINF:-1 group-title="Кино", Мир сериала
+#EXTINF:-1 group-title="Кино",Мир сериала
 http://93.125.34.51:30002/Mir_seriala/index.m3u8
-#EXTINF:-1 group-title="Кино", AmediaPremium HD
+#EXTINF:-1 group-title="Кино",AmediaPremium HD
 http://93.125.34.51:30002/AmediaPremiumHD/index.m3u8
-#EXTINF:-1 group-title="Кино", Феникс + Кино
+#EXTINF:-1 group-title="Кино",Феникс + Кино
 http://93.125.34.51:30002/FeniksKino/index.m3u8
-#EXTINF:-1 group-title="Кино", Еврокино
+#EXTINF:-1 group-title="Кино",Еврокино
 http://93.125.34.51:30002/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Кино", НСТ
+#EXTINF:-1 group-title="Кино",НСТ
 http://93.125.34.51:30002/NSTV/index.m3u8
-#EXTINF:-1 group-title="Кино", ШОКИРУЮЩЕЕ HD
+#EXTINF:-1 group-title="Кино",ШОКИРУЮЩЕЕ HD
 http://188.35.9.11:2021
-#EXTINF:-1 group-title="Кино", ОСТРОСЮЖЕТНОЕ HD
+#EXTINF:-1 group-title="Кино",ОСТРОСЮЖЕТНОЕ HD
 http://188.35.9.11:2015
-#EXTINF:-1 group-title="Кино", Русский Роман HD
+#EXTINF:-1 group-title="Кино",Русский Роман HD
 http://188.35.9.5:10007/stolen/127k/parasite.install
-#EXTINF:-1 group-title="Мужские", ОХОТНИК И РЫБОЛОВ HD    
+#EXTINF:-1 group-title="Мужские",ОХОТНИК И РЫБОЛОВ HD
 http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1 group-title="Мужские", ОХОТНИК И РЫБОЛОВ    
+#EXTINF:-1 group-title="Мужские",ОХОТНИК И РЫБОЛОВ
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1 group-title="Мужские", ОХОТНИК И РЫБОЛОВ (Резерв)
+#EXTINF:-1 group-title="Мужские",ОХОТНИК И РЫБОЛОВ (Резерв)
 http://ott-cdn.ucom.am/s62/index.m3u8
-#EXTINF:-1 group-title="Мужские", Диалоги о Рыбалке
+#EXTINF:-1 group-title="Мужские",Диалоги о Рыбалке
 http://78.30.254.43:8989/udp/238.1.4.194:1234 
-#EXTINF:-1 group-title="Украина", Интер    
+#EXTINF:-1 group-title="Украина",Интер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 group-title="Украина", К1    
+#EXTINF:-1 group-title="Украина",К1
 http://109.68.40.67/life/k1_3/index.m3u8
