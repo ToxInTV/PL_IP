@@ -281,10 +281,6 @@ http://tv.pbx.kiev.ua/tv1/2.53
 http://tv.pbx.kiev.ua/tv1/0.46
 #EXTINF:-1 group-title="Кино",Родное кино
 http://tv.pbx.kiev.ua/tv1/2.49
-#EXTINF:-1 group-title="Кино",Хорошее кино
-http://iptv.goldysat.com:9966/mag08174/GnkP8242ni/19670
-#EXTINF:-1 group-title="Кино",Хорошее кино (Резерв)
-http://193.23.58.251:7088/udp/239.192.3.148:2121/
 #EXTINF:-1 group-title="Кино",Мир сериала
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1990.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
