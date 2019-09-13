@@ -33,8 +33,6 @@ http://176.101.224.21:8080/udp/239.195.32.32:1234
 http://109.248.91.6:4044/udp/239.195.57.32:1234
 #EXTINF:-1 group-title="Федеральные Россия",Россия РТР
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Федеральные Россия",РТР-Планета
-http://193.23.58.251:7088/udp/239.192.0.54:2121/
 #EXTINF:-1 group-title="Федеральные Россия",РТР-Планета (Резерв)
 http://tv.pbx.kiev.ua/tv1/0.54
 #EXTINF:-1 group-title="Федеральные Россия",Первый канал (Резерв)
@@ -61,8 +59,6 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 group-title="Федеральные Россия",СТС (Резерв)
 http://176.101.224.21:8080/udp/239.195.32.8:1234
-#EXTINF:-1 group-title="Федеральные Россия",СТС (Резерв2)
-http://193.23.58.251:7088/udp/239.192.5.14:2121/
 #EXTINF:-1 group-title="Федеральные Россия",СТС International
 http://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 group-title="Каналы HD",Первый канал HD
@@ -193,24 +189,14 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Донецк",Новороссия ТВ HD
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1 group-title="Донецк",Новороссия ТВ HD (Резерв)
-http://193.23.58.251:7088/udp/239.192.0.25:2121/
 #EXTINF:-1 group-title="Донецк",Оплот ТВ
 http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:-1 group-title="Донецк",Оплот ТВ (Резерв)
-http://193.23.58.251:7088/udp/239.192.0.27:2121/
 #EXTINF:-1 group-title="Донецк",Оплот ТВ 2
 http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1 group-title="Донецк",Оплот ТВ 2 (Резерв)
-http://193.23.58.251:7088/udp/239.192.0.24:2121/
 #EXTINF:-1 group-title="Донецк",Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1 group-title="Донецк",Первый республиканский (Резерв)
-http://193.23.58.251:7088/udp/239.192.0.26:2121/
 #EXTINF:-1 group-title="Донецк",ЮНИОН
 http://ott.inmart.tv:8081/35/index.m3u8
-#EXTINF:-1 group-title="Донецк",ЮНИОН (Резерв)
-http://193.23.58.251:7088/udp/239.192.0.28:2121/
 #EXTINF:-1 group-title="Кино",Победа
 http://ott-cdn.ucom.am/s47/index.m3u8
 #EXTINF:-1 group-title="Кино",Победа (Резерв1)
@@ -403,17 +389,3 @@ http://85.112.114.11:8086/udp/238.2.49.249:1234
 http://85.112.114.11:8086/udp/238.2.50.7:1234
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD
 http://85.112.114.11:8086/udp/238.2.50.6:1234
-#EXTINF:-1 group-title="Детские",Nick Jr
-http://193.23.58.251:7088/udp/239.192.2.42:2121/
-#EXTINF:-1 group-title="Детские",Детский
-http://193.23.58.251:7088/udp/239.192.1.74:2121/
-#EXTINF:-1 group-title="Детские",Disney Channel
-http://193.23.58.251:7088/udp/239.192.2.35:2121/
-#EXTINF:-1 group-title="Детские",Мульт
-http://193.23.58.251:7088/udp/239.192.1.73:2121/
-#EXTINF:-1 group-title="Детские",Cartoon Network
-http://193.23.58.251:7088/udp/239.192.2.41:2121/
-#EXTINF:-1 group-title="Детские",TiJi
-http://193.23.58.251:7088/udp/239.192.2.37:2121/
-#EXTINF:-1 group-title="Детские",Карусель
-http://193.23.58.251:7088/udp/239.192.2.36:2121/
