@@ -3,6 +3,8 @@
 http://hls.goodgame.ru/hls/152506.m3u8
 #EXTINF:-1 group-title="Компьютерные игры",GAMESPROUT.TV (Резерв1)
 https://hls.goodgame.ru/hls/152506_720.m3u8
+#EXTINF:-1 group-title="Компьютерные игры",GAMANOID.TV
+http://78.30.254.43:8989/udp/238.1.3.154:1234
 #EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV
 http://188.128.15.118:8080/play/a60
 #EXTINF:-1 group-title="Компьютерные игры" tvg-logo="http://epg.it999.ru/img/1676.png",E TV (Резерв1)
@@ -280,7 +282,9 @@ http://tv.pbx.kiev.ua/tv1/0.46
 #EXTINF:-1 group-title="Кино",Родное кино
 http://tv.pbx.kiev.ua/tv1/2.49
 #EXTINF:-1 group-title="Кино",Хорошее кино
-http://tv.pbx.kiev.ua/tv1/3.148
+http://iptv.goldysat.com:9966/mag08174/GnkP8242ni/19670
+#EXTINF:-1 group-title="Кино",Хорошее кино (Резерв)
+http://193.23.58.251:7088/udp/239.192.3.148:2121/
 #EXTINF:-1 group-title="Кино",Мир сериала
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1990.m3u8
 #EXTINF:-1 group-title="Кино",TV1000
