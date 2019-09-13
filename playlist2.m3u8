@@ -65,16 +65,20 @@ http://tv.pbx.kiev.ua/tv1/5.201
 http://78.30.254.43:8989/udp/238.1.4.23:1234
 #EXTINF:-1 group-title="Каналы HD",Первый канал HD (Резерв2)
 http://188.242.220.229:81/udp/239.239.3.50:5239
+#EXTINF:-1 group-title="Каналы HD",Россия HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="Спорт",Матч HD
 http://188.128.15.118:8080/play/a163
 #EXTINF:-1 group-title="Спорт",Матч! HD
-http://188.35.9.5:10007/stolen/196k/parasite.install
+http://85.112.114.11:8086/udp/238.2.50.8:1234
 #EXTINF:-1 group-title="Спорт",Матч! HD (Резерв)
 http://78.30.254.43:8989/udp/238.1.4.139:1234
 #EXTINF:-1 group-title="Спорт",Матч! HD (Резерв2)
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/165.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! HD (Резерв3)
 https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! HD (Резерв 4)
+http://188.35.9.5:10007/stolen/196k/parasite.install
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 http://188.128.15.118:8080/play/a97
 #EXTINF:-1 group-title="Спорт",Матч! Арена (Резерв)
@@ -149,8 +153,6 @@ http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/167.m3u8
 #EXTINF:-1 group-title="Спорт",EUROSPORT 1 HD (Резерв)
 http://79.133.124.227:999/udp/239.191.254.213:15283
-#EXTINF:-1 group-title="Спорт",EUROSPORT 1 4K
-http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSHD.m3u8
 #EXTINF:-1 group-title="Спорт",EUROSPORT 2 HD
 http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/161.m3u8
 #EXTINF:-1 group-title="Спорт",EUROSPORT 2 HD (Резерв)
@@ -178,7 +180,7 @@ http://a3569456481-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m
 #EXTINF:-1 group-title="Новости",Россия 24 (Резерв2)
 http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1 group-title="Новости",Россия 24 (Резерв3)
-http://109.70.184.20:8080/udp/239.195.32.4:1234
+http://95.37.162.122:4088/udp/225.52.223.61:5000
 #EXTINF:-1 group-title="Новости",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Известия ТВ [FHD]
@@ -351,7 +353,31 @@ http://ott-cdn.ucom.am/s62/index.m3u8
  http://78.30.254.43:8989/udp/238.1.4.199:1234
 #EXTINF:-1 group-title="Мужские",Диалоги о Рыбалке
 http://78.30.254.43:8989/udp/238.1.4.194:1234 
-#EXTINF:-1 group-title="Украина",Интер
+#EXTINF:-1 group-title="Украина",Iнтер (Резерв)
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 group-title="Украина",К1
 http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="Украина",1+1
+http://195.138.78.66:8001/udp/239.1.9.2:1234
+#EXTINF:-1 group-title="Украина",ICTV
+http://195.138.78.66:8001/udp/239.1.11.4:1234
+#EXTINF:-1 group-title="Украина",Новий канал
+http://195.138.78.66:8001/udp/239.1.7.5:1234
+#EXTINF:-1 group-title="Украина",СТБ
+http://195.138.78.66:8001/udp/239.1.3.6:1234
+#EXTINF:-1 group-title="Украина",ТЕТ
+http://195.138.78.66:8001/udp/239.1.10.9:1234
+#EXTINF:-1 group-title="Украина",НТН
+http://195.138.78.66:8001/udp/239.1.6.8:1234
+#EXTINF:-1 group-title="Украина",Інтер
+http://195.138.78.66:8001/udp/239.1.13.3:1234
+#EXTINF:-1 group-title="Украина",Інтер+
+http://195.138.78.66:8001/udp/239.2.35.71:1234
+#EXTINF:-1 group-title="Украина",ТРК Україна
+http://195.138.78.66:8001/udp/239.1.8.7:1234
+#EXTINF:-1 group-title="Развлекательные",Супер HD
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:-1 group-title="Развлекательные",ТВ-3 HD
+http://85.112.114.11:8086/udp/238.2.50.7:1234
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234
