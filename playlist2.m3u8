@@ -26,9 +26,9 @@ http://85.112.114.11:8086/udp/233.170.170.112:58631
 #EXTINF:-1 tvg-id="piatnica" group-title="Каналы HD",Пятница! HD (Резерв1)
 https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия",Пятница!
-http://ott-cdn.ucom.am/s50/04.m3u8
+http://moscow-commpass.cdnvideo.ru:80/friday/hls-00/mono.m3u8?em9uYS1pcHR2LXJ1Lw?seg-user-zona-iptv.ru-v1-a1
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия",Пятница! (Резерв1)
-http://176.101.224.21:8080/udp/239.195.32.32:1234
+http://tv.pbx.kiev.ua/tv1/2.76
 #EXTINF:-1 tvg-id="piatnica" group-title="Федеральные Россия",Пятница! (Резерв2)
 http://109.248.91.6:4044/udp/239.195.57.32:1234
 #EXTINF:-1 group-title="Федеральные Россия",Россия РТР
